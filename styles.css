@@ -1,0 +1,42 @@
+html
+{
+    text-align:center;
+}
+#title{
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 40px;
+	border-bottom: solid;
+	border-bottom-color: gray;
+}
+.footer {
+	border-top: solid;
+	border-color: gray;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	list-style-type: none;
+	color: gray;
+}
+#tstylen{
+	text-decoration: none;
+	color: gray;
+}
+
+#closed {
+	color: firebrick;
+}
+
+#titles {
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.otimes {
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+.border{
+	border-top: solid;
+	border-top-color: gray;
+}
+#small{
+    font-size: 11px;
+}
